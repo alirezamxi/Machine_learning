@@ -38,9 +38,6 @@ jupyter lab
 - If you run training notebooks on a machine with CUDA, PyTorch/TensorFlow will use the GPU when configured.
 - Some notebooks include outputs/plots inline for readability on GitHub.
 
-## Acknowledgement
-
-- Some repository organization and documentation cleanup was done with help from an AI coding assistant.
 
 ## References
 
